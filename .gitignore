@@ -1,0 +1,9 @@
+#Document
+*.doc
+*.docx
+
+#Executable
+*.exe
+
+#Visual Studio Code
+.vscode/*
